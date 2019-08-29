@@ -1,5 +1,9 @@
-<div class="sidebar well">
+<!-- <div class="sidebar well">
 {{ site.description }}
+</div> -->
+
+<div class="sidebar well">
+{% include links-list.html %}
 </div>
 
 <div class="sidebar well">
@@ -9,8 +13,4 @@
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
-</div>
-
-<div class="sidebar well">
-{% include links-list.html %}
 </div>
