@@ -69,6 +69,8 @@ Atom is a text editor which is very customisable and extensible. Syntax highligh
  - using a graphical interface to git to make commits (& view diffs) to a project and push/pull them to the remote repository on GitHub
  - working on [Markdown (.md)](https://markdownguide.org), [reStructuredText (.rst)](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html), HTML files, etc., for taking notes, and building websites or documentation - for example [see the .md file](https://github.com/smithara/smithara.github.io/blob/master/tools.md) from which this page is generated
 
+I am now looking into using [VS Code](https://code.visualstudio.com/) instead - mainly because of Atom being slow.
+
 ### [**Conda**](https://conda.io): programming environment manager
 
 ### [**Jupyter**](https://jupyter.org): programming ecosystem (notebooks + more)
