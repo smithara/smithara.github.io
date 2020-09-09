@@ -17,4 +17,4 @@ You can email me at ashley.smith@ed.ac.uk and we can arrange a time to make a ca
 You can try my open office hours - just drop in, no need to write ahead:
 
 | Time:                 | Wednesdays [13:00 to 18:00 GMT](https://www.worldtimebuddy.com/?pl=1&lid=14,12&h=14)
-| Location:&nbsp;&nbsp; | <https://meet.google.com/bsz-urzy-eap>
+| Location:&nbsp;&nbsp; | <http://meet.magneticearth.org>
