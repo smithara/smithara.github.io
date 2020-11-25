@@ -6,15 +6,18 @@ layout: default
 
 # Talk to me!
 
----
-
 You are very welcome to contact me if you are seeking help or advice in areas such as: approaching scientific analyses with Python; using Jupyter in your workflow; tools and services for computation, publishing code etc; usage of Swarm products...
 
-You can email me at ashley.smith@ed.ac.uk and we can arrange a time to make a call if you like.
+Schedule a meeting with me any time (roughly within working hours for UTC):  
+<https://doodle.com/mm/426705083/smithara>  
+(this will create a calendar entry for Google Meet)
 
-# Open office hours
+... or just drop me an email me at ashley.smith@ed.ac.uk
 
-You can try my open office hours - just drop in, no need to write ahead:
+---
 
-| Time:                 | Wednesdays [13:00 to 18:00 GMT](https://www.worldtimebuddy.com/?pl=1&lid=14,12&h=14)
-| Location:&nbsp;&nbsp; | <http://meet.magneticearth.org>
+# Who am I?
+
+I am a PDRA at the University of Edinburgh, School of Geosciences. I am working on software tools to help scientists better utilise data from ESA's Swarm mission - a constellation of spacecraft at Low Earth Orbit (about 400-500km altitude) which measure Earth's magnetic fields - read more at [Magnetic Earth](https://magneticearth.org/).
+
+*Scientific research in geomagnetism --- open source software development --- data engineering --- cloud services*
