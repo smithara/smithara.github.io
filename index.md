@@ -12,6 +12,8 @@ Schedule a meeting with me any time (roughly within working hours for UTC):
 <https://doodle.com/mm/426705083/smithara>  
 (this will create a calendar entry for Google Meet)
 
+Chat in the [Magnetic Earth Slack workspace](https://join.slack.com/t/magnetic-earth/shared_invite/zt-ou83exrr-QCbIXnXxlGdUBDGvRt1uUQ)
+
 ... or just drop me an email me at ashley.smith@ed.ac.uk
 
 ---
