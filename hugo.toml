@@ -1,0 +1,11 @@
+baseURL = 'https://smithara.github.io/'
+languageCode = 'en-gb'
+title = 'Ashley Smith'
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+description = ''
+github = 'smithara'
+email = 'ashley.smith@ed.ac.uk'
